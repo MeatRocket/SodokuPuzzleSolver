@@ -1,0 +1,62 @@
+.center {
+    text-align: center;
+    margin-top: 7vh;
+    }
+
+.emailme{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+input{
+    text-align: center;
+    max-width: 100%;
+}
+
+.pos{
+    position: relative;
+    margin-top: 10vh;
+    width: 60vw;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.emailButton{
+    margin-top: 2vh;
+    position: relative;
+    width: 200px;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    background-color: #249369;
+    border-color: #249369;
+}
+
+.emailButton:hover{
+    background-color: #212529;
+    border-color: #249369;;
+}
+.emailButton:visited{
+    background-color: #212529;
+    border-color: #249369;;
+}
+
+a:link#home  { text-decoration: none; }
+
+
+a:visited#home  { text-decoration: none; }
+
+a:hover#home{
+        color: #249369 !important;
+}
+
+a:hover{
+        color : white !important; 
+    }
+
+    
